@@ -1,2 +1,1 @@
-
-
+# This is a basic exploratory analysis of movie durations and their subsequent release year. The idea behind this project is to identify and visualize the types of media causing a decline in the duration of minutes.
